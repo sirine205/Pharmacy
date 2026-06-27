@@ -65,16 +65,19 @@ The application uses SQLite to store:
 - Customers
 - Shelves
 - Invoices
- Learning Objectives
 
 ---
 
-## This project helped practice:
+## Learning Objectives
 
-Object-Oriented Programming
-Inheritance
-Interfaces
-Polymorphism
-JavaFX GUI development
-SQLite integration using JDBC
-CRUD operations
+
+
+This project helped practice:
+
+- Object-Oriented Programming
+- Inheritance
+- Interfaces
+- Polymorphism
+- JavaFX GUI development
+- SQLite integration using JDBC
+- CRUD operations
